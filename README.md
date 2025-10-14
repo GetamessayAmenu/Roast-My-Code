@@ -45,7 +45,7 @@
 |-------|-------------|
 | Frontend | React + TailwindCSS |
 | Backend | Python (FastAPI) |
-| AI | OpenAI API |
+| AI | Groq API |
 | HTTP Client | Axios |
 | Styling | TailwindCSS |
 
