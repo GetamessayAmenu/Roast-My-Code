@@ -22,8 +22,7 @@
 
 ---
 
-**Roast My Code** is an AI-powered app that takes your innocent code snippets and absolutely *destroys* them (in a loving, educational way 😭).  
-It’s the place where developers go to get humbled by a machine that thinks it’s funnier than Stack Overflow comments.
+**Roast My Code** is an AI-powered app that takes your innocent code snippets and absolutely *destroys* them (in a loving, educational way 😭). It’s the place where developers go to get humbled by a machine that thinks it’s funnier than Stack Overflow comments.
 
 ---
 ## 🧠 About the Project
