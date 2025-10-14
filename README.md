@@ -26,10 +26,10 @@
 It’s the place where developers go to get humbled by a machine that thinks it’s funnier than Stack Overflow comments.
 
 ---
-
+---
 ![Demo Screenshot](./frontend/src/assets/home.png)
 ![Demo Screenshot](./frontend/src/assets/cooked.png)
-
+---
 ## 🧠 About the Project
 
 
