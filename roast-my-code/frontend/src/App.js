@@ -8,6 +8,8 @@ function App() {
   const [loading, setLoading] = useState(false);
   const [particles, setParticles] = useState([]);
 
+  const API_BASE_URL = "https://roastmycode-agq2.onrender.com";
+
   // Generate floating particles for background animation
   useEffect(() => {
     const particleArray = Array.from({ length: 20 }, (_, i) => ({
