@@ -21,7 +21,7 @@ class CodeInput(BaseModel):
     code: str
 
 client = OpenAI(
-    api_key=os.getenv("GROQ_API_KEY"),
+    api_key=os.getenv("OPENAI_API_KEY"),
     base_url="https://api.groq.com/openai/v1"
 )
 if not client.api_key:
